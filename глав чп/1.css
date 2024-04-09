@@ -1,0 +1,30 @@
+:root {
+	--phone:#C0C0C0;
+	--text-black:	#000000;
+	--text-pastel:#8B4513;
+	--white:#FFFFFF;
+}
+body {
+	min-width: 960px;
+	margin: 0;
+	padding: 0;
+	font-family: Georgia, Arial, sans-serif;
+	font-size: 14 px;
+	line-height: 24 px;
+	font-weight: 700;
+	color: var(--white);
+	text-transform: uppercase ;
+	background-color: var(--white);
+	background-image: url("img/Rectangle 1 (1).png");
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size:100%
+}
+
+a{
+	text-decoration: none;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
